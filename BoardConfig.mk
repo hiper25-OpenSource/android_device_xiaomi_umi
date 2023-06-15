@@ -98,6 +98,9 @@ BOARD_KERNEL_PAGESIZE := 4096
 
 KERNEL_DEFCONFIG := umi_defconfig
 
+# Libinit
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_umi
+
 # Metadata
 BOARD_USES_METADATA_PARTITION := true
 

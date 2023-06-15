@@ -151,6 +151,7 @@ PRODUCT_PACKAGES += \
     AOSPAUmiSystemUI \
     FrameworksResTarget \
     FrameworksResUmi \
+    NfcResTarget \
     SettingsResUmi \
     SystemUIResUmi \
     WifiResTarget
