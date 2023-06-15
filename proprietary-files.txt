@@ -81,6 +81,7 @@ vendor/lib64/vendor.qti.hardware.alarm@1.0.so
 
 # Audio
 vendor/lib/hw/audio.primary.kona.so
+vendor/lib/hw/sound_trigger.primary.kona.so
 vendor/lib/hw/vendor.qti.hardware.audiohalext@1.0-impl.so
 vendor/lib/vndk/libxlog.so
 vendor/lib/liba2dpoffload.so
@@ -96,6 +97,7 @@ vendor/lib/libresampler.so
 vendor/lib/libssrec.so
 vendor/lib/vendor.qti.hardware.audiohalext@1.0.so
 vendor/lib64/hw/audio.primary.kona.so
+vendor/lib64/hw/sound_trigger.primary.kona.so
 vendor/lib64/hw/vendor.qti.hardware.audiohalext@1.0-impl.so
 vendor/lib64/liba2dpoffload.so
 vendor/lib64/libadiertac.so
