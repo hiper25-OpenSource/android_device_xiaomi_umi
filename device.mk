@@ -128,11 +128,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.keymaster@4.1.vendor
 
-# Mlipay
-PRODUCT_PACKAGES += \
-    vendor.xiaomi.hardware.mlipay@1.1.vendor \
-    vendor.xiaomi.hardware.mtdservice@1.0.vendor
-
 # NFC
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/nfc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
