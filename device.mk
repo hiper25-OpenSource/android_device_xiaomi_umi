@@ -45,7 +45,7 @@ PRODUCT_PACKAGES += \
     FrameworksTargetOverlay \
     SettingsTargetOverlay \
     SystemUITargetOverlay \
-    TargetWifiOverlay
+    WifiTargetOverlay
 
 # Permissions
 PRODUCT_COPY_FILES += \
